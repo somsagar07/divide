@@ -1,4 +1,4 @@
-# divide
+# Divide
 
 A new Flutter project.
 
