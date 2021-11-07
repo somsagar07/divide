@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374339529378",
+    "project_id": "divide-99ed9",
+    "storage_bucket": "divide-99ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374339529378:android:630ba392a38af48408c5fb",
+        "android_client_info": {
+          "package_name": "com.example.divide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374339529378-12h3ej6r3370u24gdvj118lenacv2rnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divide",
+            "certificate_hash": "56e015b23a589506ce244b0ddeb9a3f3aa45d1a7"
+          }
+        },
+        {
+          "client_id": "374339529378-knlgfrhoefrmvqgem16vp311j79hur5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LjLKj_7_GZab7pHL2eyXe66C_77wgVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374339529378-knlgfrhoefrmvqgem16vp311j79hur5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
